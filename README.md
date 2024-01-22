@@ -1,9 +1,9 @@
-# coinbalance-lookup-api
+# Coinbalance Lookup API
 Lookup user account balance of coins.
 
 The folder structure is as follows:
 
-## API folder
+## api
 - specs for parameters and response types for the endpoints
 - location for yml spec file
 
