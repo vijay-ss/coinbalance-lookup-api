@@ -1,6 +1,7 @@
 # coinbalance-lookup-api
-Lookup user account balance of coins
+Lookup user account balance of coins.
 
+The folder structure is as follows:
 
 ## API folder
 - specs for parameters and response types for the endpoints
@@ -11,3 +12,7 @@ Lookup user account balance of coins
 
 ## internal
 - code for api functionality
+
+## tools
+- mock database connection
+- mock user accounts
